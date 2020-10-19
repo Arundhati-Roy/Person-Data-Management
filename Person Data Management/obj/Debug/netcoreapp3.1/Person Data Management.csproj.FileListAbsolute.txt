@@ -1,0 +1,13 @@
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\bin\Debug\netcoreapp3.1\Person Data Management.exe
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\bin\Debug\netcoreapp3.1\Person Data Management.deps.json
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\bin\Debug\netcoreapp3.1\Person Data Management.runtimeconfig.json
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\bin\Debug\netcoreapp3.1\Person Data Management.runtimeconfig.dev.json
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\bin\Debug\netcoreapp3.1\Person Data Management.dll
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\bin\Debug\netcoreapp3.1\Person Data Management.pdb
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\obj\Debug\netcoreapp3.1\Person Data Management.csprojAssemblyReference.cache
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\obj\Debug\netcoreapp3.1\Person Data Management.AssemblyInfoInputs.cache
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\obj\Debug\netcoreapp3.1\Person Data Management.AssemblyInfo.cs
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\obj\Debug\netcoreapp3.1\Person Data Management.dll
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\obj\Debug\netcoreapp3.1\Person Data Management.pdb
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\obj\Debug\netcoreapp3.1\Person Data Management.genruntimeconfig.cache
+C:\Users\priyadarshini roy\source\repos\Person Data Management\Person Data Management\obj\Debug\netcoreapp3.1\Person Data Management.csproj.CoreCompileInputs.cache

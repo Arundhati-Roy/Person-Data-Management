@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "64VBSgF8YmNJuFYqS+eSo2GaBj2By7FEuKHPNOfCSm53el8zYND7lzC/DXd4u19MdbBOypcyWJ4veT50JIVVgg==",
+  "dgSpecHash": "Z79NBApw018g6O3j7+JcDpPi59b+kRS4ICQu3UBdlHhqoRjVFiK4oVr1XlVg7eI++TEUPGJkQs/oGT2P5Ak/mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\priyadarshini roy\\source\\repos\\Person Data Management\\Person Data Management\\Person Data Management.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\priyadarshini roy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\priyadarshini roy\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\priyadarshini roy\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\priyadarshini roy\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
